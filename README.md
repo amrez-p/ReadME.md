@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, JavaScript, Express JS**
 
-- 📫 How to reach me **amrezB2C@gmail.com**
+- 📫 How to reach me **amrezb2c@gmail.com**
 
 - 📄 Know about my experiences (not available yet)
 

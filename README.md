@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences (not available yet)
 
-- ⚡ Fun fact **I also an Artist**
+- ⚡ Fun fact **I'm also an Artist**
 
 
 

@@ -2,9 +2,9 @@
 <h3 align="center">Mern-stack Web developer | UI/UX Designer | React Native Developer</h3>
 
 
-- 🔭 I’m currently working on ** Facebook Clone 😎**
+- 🔭 I’m currently working on ** Signal Clone 😎**
 
-- 🌱 I’m currently learning ** Rest Api 🔥**
+- 🌱 I’m currently learning ** React Native 🔥**
 
 
 - 💬 Ask me about **React, JavaScript, Express JS**

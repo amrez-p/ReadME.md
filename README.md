@@ -2,7 +2,7 @@
 <h3 align="center">Front-End | Blockchain | React Native Developer</h3>
 
 
-- 🔭 I’m currently working on ** Twitter Blockchain 😎**
+- 🔭 I’m currently working on ** Twitter clone 😎**
 
 - 🌱 I’m currently learning ** React Native 🔥**
 

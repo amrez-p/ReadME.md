@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ** React Native 🔥**
 
 
-- 💬 Ask me about **React, JavaScript, Firebase**
+- 💬 Ask me about **React, JavaScript, Web3**
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 

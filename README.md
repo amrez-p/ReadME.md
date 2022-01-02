@@ -1,13 +1,13 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Amrez</h1>
-<h3 align="center">Full-Stack | Blockchain | React Native Developer</h3>
+<h3 align="center">Full-Stack | Blockchain Developer</h3>
 
 
 - 🔭 I’m currently working on ** Twitter clone 😎**
 
-- 🌱 I’m currently learning ** React Native 🔥**
+- 🌱 I’m currently learning ** Vue js 🔥**
 
 
-- 💬 Ask me about **React, JavaScript, Web3**
+- 💬 Ask me about **JavaScript,Python, Solidity**
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 

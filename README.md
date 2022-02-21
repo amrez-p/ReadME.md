@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ** Twitter clone 😎**
 
-- 🌱 I’m currently learning ** Vue js 🔥**
+- 🌱 I’m currently learning ** Graphql 🔥**
 
 
 - 💬 Ask me about **JavaScript,Python, Solidity**

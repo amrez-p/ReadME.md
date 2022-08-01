@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on ** Twitter clone 😎**
 
-- 🌱 I’m currently learning ** Data analysis with python 🔥**
+- 🌱 I’m currently learning ** Data Analysis with Python 🔥**
 
 
-- 💬 Ask me about **JavaScript,Python, and data science **
+- 💬 Ask me about **JavaScript, Python, and Data Science **
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 

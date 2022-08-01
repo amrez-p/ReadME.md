@@ -1,19 +1,19 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></a>, I'm Amrez</h1>
-<h3 align="center">Full-Stack | Blockchain Developer</h3>
+<h3 align="center">Software Developer | Data Analyst</h3>
 
 
 - 🔭 I’m currently working on ** Twitter clone 😎**
 
-- 🌱 I’m currently learning ** Graphql 🔥**
+- 🌱 I’m currently learning ** Data analysis with python 🔥**
 
 
-- 💬 Ask me about **JavaScript,Python, Solidity**
+- 💬 Ask me about **JavaScript,Python, and data science **
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 
 - 📄 Know about my experiences (not available yet)
 
-- ⚡ Fun fact **I'm also an Artist**
+- ⚡ Fun fact **I'm also a Graphic Designer**
 
 
 

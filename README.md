@@ -1,13 +1,13 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></a>, I'm Amrez</h1>
-<h3 align="center">Software Developer | Data Analyst</h3>
+<h3 align="center">Data Analyst</h3>
 
 
-- 🔭 I’m currently working on **Twitter clone 😎**
+- 🔭 I’m currently working on **Dashboards 😎**
 
-- 🌱 I’m currently learning **Data Analysis with Python 🔥**
+- 🌱 I’m currently learning **Marketing Data Analysis 🔥**
 
 
-- 💬 Ask me about **JavaScript, Python, and Data Science**
+- 💬 Ask me about **Front Development and Digital Marketing**
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 

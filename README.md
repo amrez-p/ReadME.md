@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Javascript Game Development 🔥**
 
 
-- 💬 Ask me about **Front Development and Digital Marketing**
+- 💬 Ask me about **Front Development and Javascript**
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 

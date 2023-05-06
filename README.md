@@ -1,7 +1,7 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></a>, I'm Amrez</h1>
 <h3 align="center">Front-End Developer/.Net Developer</h3>
 
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 - 🔭 I’m currently working on **Canvas 😎**
 
 - 🌱 I’m currently learning **Javascript Game Development 🔥**

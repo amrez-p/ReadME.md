@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 
-- 💻 Working as freelancer
+- 💻 Working as a freelancer
 
 - ⚡ Fun fact **I'm also an Artist**
 

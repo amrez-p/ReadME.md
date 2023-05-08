@@ -2,12 +2,12 @@
 <h3 align="center">Front-End Developer/.Net Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=amrez-p&color=blue)
-- 🔭 I’m currently working on **Canvas 😎**
+- 🔭 I’m currently working on **Phaser JS 😎**
 
-- 🌱 I’m currently learning **Javascript Game Development 🔥**
+- 🌱 I’m learning about **Game Development 🔥**
 
 
-- 💬 Ask me about **Front Development and Javascript**
+- 💬 Ask me questions related to **Front Development. Javascript and .NET**
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 

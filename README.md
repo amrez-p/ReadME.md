@@ -7,7 +7,7 @@
 - 🌱 I’m learning about **Game Development 🔥**
 
 
-- 💬 Ask me questions related to **Front Development. Javascript and .NET**
+- 💬 Ask me questions related to **Front Development, Javascript, and .NET**
 
 - 📫 How to reach me **amrezb2c@gmail.com**
 

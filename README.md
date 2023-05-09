@@ -27,7 +27,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40" />
    </a>
 </a>  
-          
+
+## Currently Used Languages
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrez-p&hide_progress=true)](https://github.com/amrez-p/github-readme-stats)

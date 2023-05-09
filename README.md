@@ -30,4 +30,4 @@
 
 ### Currently used languages
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrez-p&layout=compact&bg_color=22272E&hide_title=true&text_color=e4e8ec&hide_border=true&border_radius=6&card_width=278&langs_count=6)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amrez-p&layout=compact&bg_color=22272E&hide_title=true&text_color=e4e8ec&hide_border=true&border_radius=6&card_width=278&langs_count=6)

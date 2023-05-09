@@ -1,5 +1,6 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></a>, great to see you here!</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=800&pause=1000&color=F7F7F7&width=435&lines=Front-end+Developer;.Net+Developer;Game+Developer)](https://git.io/typing-svg)
+<h3 align="center">Front-End Developer/.Net Developer</h3>
+
 ![](https://komarev.com/ghpvc/?username=amrez-p&color=blue)
 - 🔭 I’m currently working on **Phaser JS 😎**
 

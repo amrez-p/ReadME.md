@@ -28,7 +28,6 @@
    </a>
 </a>  
 
-## Currently Used Languages
+### Currently used languages
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrez-p&hide_progress=true)](https://github.com/amrez-p/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amrez-p&layout=compact&bg_color=22272E&hide_title=true&text_color=e4e8ec&hide_border=true&border_radius=6&card_width=278&langs_count=6)

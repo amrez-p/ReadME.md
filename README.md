@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer/.Net Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=amrez-p&color=blue)
-- 🔭 I’m currently working on **Phaser JS 😎**
+- 🔭 I’m currently working on **Discord Chatbot 😎**
 
 - 🌱 I’m learning about **Game Development 🔥**
 

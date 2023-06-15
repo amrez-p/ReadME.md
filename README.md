@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=amrez-p&color=blue)
 - 🔭 I’m currently working on **Discord Chatbot 😎**
 
-- 🌱 I’m learning about **Game Development 🔥**
+- 🌱 I’m learning about **Chatbot Development 🔥**
 
 
 - 💬 Ask me questions related to **Full-stack Development, Javascript, and .NET**

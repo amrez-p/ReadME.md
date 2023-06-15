@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"></a>, great to see you here!</h1>
-<h3 align="center">Javascript Developer/.Net Developer</h3>
+<h3 align="center">Javascript Developer | .Net Developer</h3>
 
 ![](https://komarev.com/ghpvc/?username=amrez-p&color=blue)
 - 🔭 I’m currently working on **Discord Chatbot 😎**

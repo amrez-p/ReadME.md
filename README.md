@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=amrez-p&color=blue)
 - 🔭 I’m currently working on **Discord Chatbot 😎**
 
-- 🌱 I’m learning about **Internet of Things 🔥**
+- 🌱 I’m learning about **Internet Of Things (IOT) 🔥**
 
 
 - 💬 Ask me questions related to **Full-stack Development, Javascript, and .NET**
